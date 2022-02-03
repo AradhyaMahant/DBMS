@@ -3,18 +3,18 @@
 
 Details about the exeriments performed using sql.
 
-Experimen1:
+Experimen1:<br />
 To understand DDL and DML commands<br />
-<br />Objective: To understand the concept of designing issue related to the database with creating, populating the tables.  Also familiarize students with different ways of manipulation in database.
-
-
-Experimen2:
-To understand and apply the concept of Constraints.
+Objective: To understand the concept of designing issue related to the database with creating, populating the tables.  Also familiarize students with different ways of manipulation in database.
+<br />
+<br />
+Experimen2:<br />
+To understand and apply the concept of Constraints.<br />
 Objective: To understand the concept of data constraints that is enforced on data being stored in the table. Focus on Primary Key and the Foreign Key.
-
-
-Experimen3:
-To understand and use SQL Sub-Query
+<br />
+<br />
+Experimen3:<br />
+To understand and use SQL Sub-Query<br />
 Objective: To understand the use of sql subquery.
 
 
